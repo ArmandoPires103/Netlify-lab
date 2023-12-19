@@ -1,4 +1,5 @@
 # Basic React Starter
+[MY LIVE SITE URL](https://main--funny-macaron-24954a.netlify.app/)
 
 You can use this starter to create any ReactJS app you would like.
 Unlike when you use `npm create vite@latest your-app-name -- --template react`,
